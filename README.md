@@ -5,7 +5,7 @@
 
 I’m currently learning **Machine Learning, Python, Tableau**
 
-All of my projects are available at [dharamdudi.github.io](dharamdudi.github.io)
+All of my projects are available at [dharamdudi.github.io](https://dharamdudi.github.io)
 
 How to reach me **dharmendra.dudi@outlook.com**
 
