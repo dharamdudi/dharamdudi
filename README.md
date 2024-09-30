@@ -3,7 +3,7 @@
 <h2 align="center">Data Analyst</h2>
 <img align="right" alt="data" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FseWwxeWI1bzJ5OGh2Z2Zqejd3dzR1d2IzamI2Mnk1bHB5OGFhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
 
-I’m currently learning **Machine Learning, Python, Tableau**
+I’m a **Analytics Engineer**
 
 All of my projects are available at [dharamdudi.github.io](https://dharamdudi.github.io)
 
@@ -18,8 +18,9 @@ How to reach me **dharmendra.dudi@outlook.com**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="tableau" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" "><img align="center" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" height="30" width="30" ></a> &nbsp;
