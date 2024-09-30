@@ -18,14 +18,15 @@ How to reach me **dharmendra.dudi@outlook.com**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="tableau" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jora" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="MS-Excel" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VScode" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" height="30" width="30" ></a> &nbsp;
 </p>
