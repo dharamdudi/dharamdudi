@@ -21,6 +21,7 @@ How to reach me **dharmendra.dudi@outlook.com**
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="DBT" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" "><img align="center" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" width="30" ></a> &nbsp;
