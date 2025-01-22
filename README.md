@@ -16,7 +16,7 @@ How to reach me **dharmendra.dudi@outlook.com**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png?v=1957906730599864760" alt="DBT" height="30" width="30" ></a> &nbsp;
+<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://github.com/dharamdudi/dharamdudi/blob/main/dbt-bit_tm.svg" alt="dbt" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" height="30" width="30" ></a> &nbsp;
