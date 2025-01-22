@@ -16,13 +16,13 @@ How to reach me **dharmendra.dudi@outlook.com**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://github.com/dharamdudi/dharamdudi/blob/main/dbt-bit_tm.svg" alt="dbt" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" "><img align="center" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="30" width="30" ></a> &nbsp;
-<a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" width="30" ></a> &nbsp;
+<a href="https://www.getdbt.com/" ><img align="center" src="https://github.com/dharamdudi/dharamdudi/blob/main/dbt-bit_tm.svg" alt="dbt" height="30" width="30" ></a> &nbsp;
+<a href="https://www.python.org/" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="30" width="30" ></a> &nbsp;
+<a href="https://www.snowflake.com/en/" "><img align="center" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="30" width="30" ></a> &nbsp;
+<a href="https://cloud.google.com/looker" "><img align="center" src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" height="30" width="30" ></a> &nbsp;
+<a href="https://airflow.apache.org/" "><img align="center" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" height="30" width="30" ></a> &nbsp;
+<a href="https://www.tableau.com/" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="30" width="30" ></a> &nbsp;
+<a href="https://www.figma.com/" ><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="MS-Excel" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="30" width="30" ></a> &nbsp;
 <a href="https://www.github.com/dharamdudi" ><img align="center" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" height="30" width="30" ></a> &nbsp;
